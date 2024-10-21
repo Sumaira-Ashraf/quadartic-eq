@@ -1,0 +1,2 @@
+# quadartic-eq
+make graph
